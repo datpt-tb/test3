@@ -39,7 +39,7 @@ class _AddUserState extends State<AddUser> {
         title: const Text("Add User"),
         centerTitle: true,
         backgroundColor: Colors.teal,
-        foregroundColor: Colors.white,
+        foregroundColor: Colors.red,
       ),
       bottomNavigationBar: MaterialButton(
         color: Colors.teal,
